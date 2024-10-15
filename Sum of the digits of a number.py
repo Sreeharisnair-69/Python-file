@@ -13,4 +13,4 @@ while(num > 0):
     num = num // 10
     sum = sum + rem
 
-print(sum)
+print("The sum of the digits is:",sum)
