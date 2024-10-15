@@ -13,10 +13,10 @@ print(format1)
 format2 = current_time.strftime("%m/%d/%Y")
 print(format2)
 
-format3 = current_time.strftime("%A,%B,%Y")
+format3 = current_time.strftime("%A,%B,%d,%Y")
 print(format3)
 
-format4 = current_time.strftime("%A,%B,%Y %H:%M:%S %p")
+format4 = current_time.strftime("%A,%B,%d,%Y %H:%M:%S %p")
 print(format4)
 
 format5 = current_time.strftime("%a-%b-%d %I:%M:%S IST %Y")
