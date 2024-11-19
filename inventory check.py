@@ -1,3 +1,9 @@
+'''
+Name: Sreehari Sreekumar Nair
+Date: 19 Nov 2024
+Purpose: To take a list of items with their price and the quantity and print the item with the highest total stock value.
+'''
+
 inventory = [
     ("Laptop", 10, 30000),
     ("Keyboard", 20, 1000),
